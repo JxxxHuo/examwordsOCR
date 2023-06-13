@@ -1,2 +1,2 @@
 # examwordsOCR
-this is a project to recognize test words in exam papers for marking
+this is a Python project to recognize test words in exam papers for marking
